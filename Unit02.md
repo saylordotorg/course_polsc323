@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC323: European Politics"
+course_description: "An examination of historical and contemporary issues in European politics. Topics include the wars of religion, the pre-colonial era, the First and Second World Wars, and the formation of the European Union (EU)."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The European Union** <span id="2"></span> 
 *In this unit, we will explore the institutions and policies of the
 European Union.  The European Union represents the collective economic

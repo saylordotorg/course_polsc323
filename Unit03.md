@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC323: European Politics"
+course_description: "An examination of historical and contemporary issues in European politics. Topics include the wars of religion, the pre-colonial era, the First and Second World Wars, and the formation of the European Union (EU)."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Case Studies in European Policies** <span id="3"></span> 
 *Unit 3 covers specific case studies in European politics as well as the
 EU as a whole.  We take as our perspective the classification of Europe
