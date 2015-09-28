@@ -164,3 +164,4 @@ total of 4.5 hours) on Wednesday night, etc.
 - [Unit 3](https://legacy.saylor.org/polsc323/Unit03/)
 - [Unit 4](https://legacy.saylor.org/polsc323/Unit04/)
 - [Unit 5](https://legacy.saylor.org/polsc323/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC323/POLSC323-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC323/POLSC323-FinalExam-Answers.html)
