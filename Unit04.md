@@ -95,12 +95,12 @@ Upon successful completion of this unit, the student will be able to:
     Societies: Main Trends and Alternative Policy Options”**
     Link: Rainer Muenz’s “[Aging and Demographic Change in European
     Societies: Main Trends and Alternative Policy
-    Options](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc323-4.1.1-Reading-Muenz.pdf)”
+    Options](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Polsc323-4.1.1-Reading-Muenz.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc323-4.1.1-Muenz-epub.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Polsc323-4.1.1-Muenz-epub.epub)  
         
      Instructions: Scroll down to the “download the selected file”
     button, click on the button to download the PDF, and read the

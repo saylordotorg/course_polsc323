@@ -159,7 +159,7 @@ id="2.1.3"></span> 
 
 -   **Reading: Wikipedia: “Treaty of Lisbon”**
     Link: Wikipedia: “[Treaty of
-    Lisbon](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Treaty-of-Lisbon.pdf)”
+    Lisbon](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Treaty-of-Lisbon.pdf)”
     (PDF)  
         
      Instructions: Read the Wikipedia entry for “Treaty of Lisbon” for a
