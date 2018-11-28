@@ -205,7 +205,7 @@ id="3.1.2"></span> 
     Europe's Imperative”**
     Link: Open Democracy: Nora Fisher Onar’s [“Turkey's Democracy,
     Europe's
-    Imperative”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC323-3.2.3-TurkeysDemocracyEuropesImperative.pdf) (PDF)  
+    Imperative”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/POLSC323-3.2.3-TurkeysDemocracyEuropesImperative.pdf) (PDF)  
         
      Instructions: Read this article.  
         
@@ -221,7 +221,7 @@ id="3.1.2"></span> 
     Tipping-point, Turkey’s Solution”**
     Link: Open Democracy: Nora Fisher Onar’s [“Europe’s Tipping-point,
     Turkey’s
-    Solution”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC323-3.2.3-EuropesTippingPointTurkeysSolution.pdf) (PDF)  
+    Solution”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/POLSC323-3.2.3-EuropesTippingPointTurkeysSolution.pdf) (PDF)  
         
      Instructions: Read this article.  
         
@@ -238,7 +238,7 @@ id="3.1.2"></span> 
     Spring”**
     Link: Open Democracy: Nathalie Tocci’s [“Partners in Need: Turkey,
     the European Union and the United States Face the Arab
-    Spring”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC323-3.2.3-PartnersInNeed.pdf) (PDF)  
+    Spring”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/POLSC323-3.2.3-PartnersInNeed.pdf) (PDF)  
         
      Instructions: Read this article.  
         
@@ -254,7 +254,7 @@ id="3.1.2"></span> 
 -   **Reading: Foreign Policy in Focus: Pinar Bilgin’s “Turkey’s
     European Dilemma”**
     Link: Foreign Policy in Focus: Pinar Bilgin’s [“Turkey’s European
-    Dilemma”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC323-3.2.3-PartnersInNeed.pdf)
+    Dilemma”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/POLSC323-3.2.3-PartnersInNeed.pdf)
     (PDF)  
         
      Instructions: Read this article.  
